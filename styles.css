@@ -50,6 +50,7 @@ nav > .nav-button> button {
     width: 80px;
     padding: .2rem;
     border-radius: 20px;
+    border: 0;
 }
 
 /* MAIN */
